@@ -26,7 +26,7 @@ Since we are repurposing the 40-pin Raspberry Pi header on the Bonnet, use the f
 | **A** | Pin 15 | **GPIO 7**    | purple |
 | **B** | Pin 37 | **GPIO 8**    | yellow |
 | **C** | Pin 13 | **GPIO 9**    | grey   |
-| **LAT** | Pin 7 | **GPIO 11**  | green  |
-| **OE** | Pin 12 | **GPIO 12**  | yellow |
-| **CLK** | Pin 11 | **GPIO 13** | red    |
+| **LAT** | Pin 7 | **GPIO 21**  | green  |
+| **OE** | Pin 12 | **GPIO 34**  | yellow |
+| **CLK** | Pin 11 | **GPIO 35** | red    |
 | **GND** | Pin 6 | **GND**      | black  |
